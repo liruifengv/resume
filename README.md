@@ -1,3 +1,3 @@
 # My Resume
-# 个人简历
+# [个人简历](https://liruifengv.github.io/resume/Resume.html)
 ## 前端校招求坑
